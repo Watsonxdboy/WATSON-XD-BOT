@@ -131,11 +131,12 @@ Stay connected with the latest updates and community by joining our official Wha
 
 ### 🫡DON'T FORGET TO CHECK ETHIX MD 🫡
 
-- **WhatsApp Channel:** [Join Here](https://whatsapp.com/channel/0029VaWJMi3GehEE9e1YsI1S)
-
-- **WhatsApp Group:** [Join Here](https://chat.whatsapp.com/E3PWxdvLc7ZCp1ExOCkEGp)
+- **WhatsApp Channel:** [Join Here](https://whatsapp.com/channel/0029VajjzuB9sBI890YffB1b)
+- **WhatsApp Group:** [Join Here](https://chat.whatsapp.com/E0a2bl9wHYlCHuL35WBR88)
 - 
+## DON'T FORGET TO TO BUY MY B 
 - **Donate:** [Buy Me A Coffee](buymeacoffee.com/ethixbhai)
+- and check his bot ##🚀BOT🎉[(https://github.com/Ethix-Xsid/Ethix-MD-V2)]
 
 ## ⚠️ Reminder
 
