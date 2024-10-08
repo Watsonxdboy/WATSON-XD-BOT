@@ -5,12 +5,6 @@
 <p align="center">
   <a href="https://github.com/watsonxdboy"><img src="http://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=false&lines=WATSON-XD-+BOT+MultiDevice;Developed+by+Ethix~Xsid+and+recode+watson-xd,;Give+star+and+forks+this+Repo+🌟" alt="WATSON-XD-BOTReadme"></a>
 </p>
-
-##>WATSON-XD-BOT is based on :
->- [ETHIX BOT](https://github.com/Ethix-Xsid/Ethix-MD-V2) by [ETHIX](https://github.com/Ethix-Xsid)
->
->
-
 ## 🚀 Getting Started
 
 To get started with WATSON-XD-BOT, follow these steps:
