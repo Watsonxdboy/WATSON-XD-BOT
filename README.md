@@ -121,19 +121,19 @@ You can also deploy the bot directly on your Android device using Termux. Here�
 
    Make sure to keep Termux open to maintain the bot's operation.
 
-## 🌐 Join WhatsApp Group, Channel, and Contact the Owner
+## 😻 Join WhatsApp Group, Channel, and Contact the Owner
 
 Stay connected with the latest updates and community by joining our official WhatsApp group and channel. You can also contact the owner directly.
 
 - **Owner WhatsApp Number:** +263781330745
   - *Note:* Please save the owner's number in your contacts before sending a message.
 
-### 🫡DON'T FORGET TO CHECK ETHIX MD 🫡
+### 🫡DON'T FORGET TO CHECK WATSON-XD-BOT 🫡
 
 - **WhatsApp Channel:** [Join Here](https://whatsapp.com/channel/0029VajjzuB9sBI890YffB1b)
 - **WhatsApp Group:** [Join Here](https://chat.whatsapp.com/E0a2bl9wHYlCHuL35WBR88)
 - 
-## DON'T FORGET TO TO BUY MY B 
+## DON'T FORGET TO TO BUY ETHIX COFFEE AND UPDATES 
 - **Donate:** [Buy Me A Coffee](buymeacoffee.com/ethixbhai)
 - and check his bot ##🚀BOT🎉[(https://github.com/Ethix-Xsid/Ethix-MD-V2)]
 
