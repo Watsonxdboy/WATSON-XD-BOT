@@ -8,6 +8,9 @@
 
 ##>WATSON-XD-BOT is based on :
 >- [ETHIX BOT](https://github.com/Ethix-Xsid/Ethix-MD-V2) by [ETHIX](https://github.com/Ethix-Xsid)
+>
+>
+
 ## 🚀 Getting Started
 
 To get started with WATSON-XD-BOT, follow these steps:
