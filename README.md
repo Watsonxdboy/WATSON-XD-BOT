@@ -1,4 +1,11 @@
----
+
+## `⭐Star This Repo⭐`
+
+
+
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=FF0069&center=true&width=970&height=100&lines=𝗜𝗧𝗦%20𝗪𝗔𝗧𝗦𝗢𝗡-𝗫𝗗-𝗕𝗢𝗧;%20𝗠𝗨𝗟𝗧𝗜-𝗗𝗘𝗩𝗜𝗖𝗘%20𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣%20𝗕𝗢𝗧;%20𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗗%20𝗕𝗬%20𝗪𝗔𝗧𝗦𝗢𝗡%20𝗫𝗗)
+<p align="center">
 
 # WATSON-XD-BOT 
 
@@ -7,7 +14,7 @@
 </p>
 ## 🚀 Getting Started
 
-To get started with WATSON-XD-BOT, follow these steps:
+To get started with 𝗪𝗔𝗧𝗦𝗢𝗡-𝗫𝗗-𝗕𝗢𝗧, follow these steps:
 
 ### 1. Fork This Repository
 
@@ -15,17 +22,17 @@ Start by forking this repository to your own GitHub account. Click the button be
 
 <a href='https://github.com/watsonxdboy/WATSON-XD-BOT/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork This Repo-black?style=for-the-badge&logo=git&logoColor=white'/></a>
 
-### 2. Get Session ID via Pair Code
+### 2. 🌟 Get Session ID via Pair Code 🌟
 
 You'll need a session ID to run the bot. Click the button below to obtain your session ID:
 
 <a href='https://professional-kitty-goutammallick516-86803e18.koyeb.app' target="_blank"><img alt='Get Session ID' src='https://img.shields.io/badge/Click here to get your session id-black?style=for-the-badge&logo=opencv&logoColor=red'/></a>
 
-## 🚀 Deployment Options
+## 🤩 Deployment Options 🤩
 
 You can deploy the WATSON-XD-BOT bot using two methods: **Heroku** or **Termux**. Choose the method that suits you best.
 
-### Deploy to Heroku
+### Deploy to Heroku 
 
 Deploying the bot to Heroku is simple and straightforward. Follow these steps:
 
@@ -128,14 +135,15 @@ Stay connected with the latest updates and community by joining our official Wha
 - **Owner WhatsApp Number:** +263781330745
   - *Note:* Please save the owner's number in your contacts before sending a message.
 
-### 🫡DON'T FORGET TO CHECK WATSON-XD-BOT 🫡
+### 🎉🎉DON'T FORGET TO CHECK WATSON-XD-BOT 🎉🎉
 
 - **WhatsApp Channel:** [Join Here](https://whatsapp.com/channel/0029VajjzuB9sBI890YffB1b)
+
 - **WhatsApp Group:** [Join Here](https://chat.whatsapp.com/E0a2bl9wHYlCHuL35WBR88)
 - 
 ## DON'T FORGET TO TO BUY ETHIX COFFEE AND BOT UPDATES 🎉🎉
 - **Donate:** [Buy Me A Coffee](buymeacoffee.com/ethixbhai)
-- and check his bot ##🚀BOT🎉[(https://github.com/Ethix-Xsid/Ethix-MD-V2)]
+- and check his bot ##🚀BOT🎉[https://github.com/Ethix-Xsid/Ethix-MD-V2)
 
 ## ⚠️ Reminder
 
