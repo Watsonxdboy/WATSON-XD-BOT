@@ -4,8 +4,12 @@
 
 
 
+
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=FF0069&center=true&width=970&height=100&lines=𝗜𝗧𝗦%20𝗪𝗔𝗧𝗦𝗢𝗡-𝗫𝗗-𝗕𝗢𝗧;%20𝗠𝗨𝗟𝗧𝗜-𝗗𝗘𝗩𝗜𝗖𝗘%20𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣%20𝗕𝗢𝗧;%20𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗗%20𝗕𝗬%20𝗪𝗔𝗧𝗦𝗢𝗡%20𝗫𝗗)
 <p align="center">
+
+
 
 # WATSON-XD-BOT 
 
