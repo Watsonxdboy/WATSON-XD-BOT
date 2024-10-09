@@ -9,8 +9,6 @@
 
 # WATSON-XD-BOT 
 
-<p align="center">
-  <a href="https://github.com/watsonxdboy"><img src="http://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=false&lines=WATSON-XD-+BOT+MultiDevice;Developed+by+Ethix~Xsid+and+recode+watson-xd,;Give+star+and+forks+this+Repo+🌟" alt="WATSON-XD-BOTReadme"></a>
 </p>
 ## 🚀 Getting Started
 
