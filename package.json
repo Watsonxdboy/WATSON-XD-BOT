@@ -6,8 +6,8 @@
   "type": "module",
   "scripts": {
     "start": "pm2 start index.js --deep-monitoring --attach --name Ethix-MD",
-    "stop": "pm2 stop Ethix-MD",
-    "restart": "pm2 restart Ethix-MD"
+    "stop": "pm2 stop WATSON-XD-BOT",
+    "restart": "pm2 restart WATSON-XD-BOT"
   },
   "keywords": ["ethix-md", "whatsapp-bot", "WATSON-XD-BOT", "whatsapp md bot"],
   "author": "WATSON-XD",
