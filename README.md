@@ -4,21 +4,13 @@
 
 
 
-
-
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Ribeye&size=50&pause=1000&color=FF0069&center=true&width=970&height=100&lines=𝗜𝗧𝗦%20𝗪𝗔𝗧𝗦𝗢𝗡-𝗫𝗗-𝗕𝗢𝗧;%20𝗠𝗨𝗟𝗧𝗜-𝗗𝗘𝗩𝗜𝗖𝗘%20𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣%20𝗕𝗢𝗧;%20𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗘𝗗%20𝗕𝗬%20𝗪𝗔𝗧𝗦𝗢𝗡%20𝗫𝗗)
-
-##  ℹ️```Bot Intro```ℹ️
-[![WATSON-XD-BOT](https://files.catbox.moe/rfowi7.jpg)](https://whatsapp.com/channel/0029VajjzuB9sBI890YffB1b)
-</p>
-
-
 <p align="center">
-
-
 
 # WATSON-XD-BOT 
 
+<p align="center">
+  <a href="https://github.com/watsonxdboy"><img src="http://readme-typing-svg.herokuapp.com?color=red&center=true&vCenter=true&multiline=false&lines=WATSON-XD-+BOT+MultiDevice;Developed+by+Ethix~Xsid+and+recode+watson-xd,;Give+star+and+forks+this+Repo+🌟" alt="WATSON-XD-BOTReadme"></a>
 </p>
 ## 🚀 Getting Started
 
