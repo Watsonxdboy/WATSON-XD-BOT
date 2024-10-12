@@ -89,7 +89,6 @@ export const handleAntilink = async (m, sock, logger, isBotAdmins, isAdmins, isC
             setTimeout(async () => {
                 await sock.groupParticipantsUpdate(m.from, [m.sender], 'remove');
             }, 5000); // 5 seconds delay before kick
-      
         }
     }
 };
